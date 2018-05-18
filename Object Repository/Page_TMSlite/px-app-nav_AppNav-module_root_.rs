@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>px-app-nav_AppNav-module_root_</name>
+   <tag></tag>
+   <elementGuidId>82fb420f-a27f-4050-a69f-954ea82f5044</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;items&quot;]/px-app-nav-item[2]//p</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;flex flex--col App-module_appRoot_2W_oY&quot;]/header[@class=&quot;AppHeader-module_root_29OSo&quot;]/px-app-nav[@class=&quot;AppNav-module_root_3r7aj&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#items</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>px-app-nav</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>AppNav-module_root_3r7aj</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex--col App-module_appRoot_2W_oY&quot;]/header[@class=&quot;AppHeader-module_root_29OSo&quot;]/px-app-nav[@class=&quot;AppNav-module_root_3r7aj&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

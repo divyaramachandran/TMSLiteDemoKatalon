@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>TMSLITE</name>
+   <tag></tag>
+   <UUID>08715bc6-ff8f-4472-9bdc-69b81d5391e5</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>
